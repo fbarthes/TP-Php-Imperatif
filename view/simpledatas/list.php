@@ -1,6 +1,6 @@
 <main class="container">
     <div class="glass my-3">
-        <H2 class="my-3">Affichage des données</H2>
+        <H2 class="my-3">Affichage des données (datas.json)</H2>
     <table class="table mt-3">
     <thead>
     <th>Data</th>

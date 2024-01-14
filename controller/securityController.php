@@ -11,7 +11,7 @@ function login()
     }
 
     createView([
-        'title' => 'Login!',
+        'title' => 'Login! (users.json)',
         'error' => $error,
         'form' => $form,
     ],'/login/login.php');
