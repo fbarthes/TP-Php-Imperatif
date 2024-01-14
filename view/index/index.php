@@ -1,0 +1,3 @@
+<main>
+    Autre page
+</main>
